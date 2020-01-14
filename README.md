@@ -1,5 +1,7 @@
 [link to website](https://heart8reak.github.io/ariana-portfolio/)
 
+https://arianarolon.info
+
 
 Forty by HTML5 UP
 html5up.net | @ajlkn
