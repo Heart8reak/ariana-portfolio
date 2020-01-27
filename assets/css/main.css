@@ -2166,9 +2166,13 @@ input, select, textarea {
 		position: relative;
 	}
 
+	span.image.ari-main img{
+		border-radius: 50%;
+		width: 30%;
+	}
+
 		.image img {
 			display: block;
-			border-radius: 50%;
 		}
 
 		.image.left, .image.right {
@@ -2208,8 +2212,10 @@ input, select, textarea {
 		}
 
 			.image.main img {
-				width: 30%;
+				width: 100%;
 			}
+
+		
 
 			@media screen and (max-width: 736px) {
 
